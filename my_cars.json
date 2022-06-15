@@ -1,0 +1,25 @@
+[
+	{
+		"_id": "72a9228b563daeb69cee10dd",
+		"name": "Car Example 01",
+		"make": "FORD",
+		"model": "Ranger",
+		"plate": "ABC123"
+	},
+
+	{
+		"_id": "62a9228b563daeb69cee10dc",
+		"name": "Car Example 02",
+		"make": "FORD",
+		"model": "Ka",
+		"plate": "ABD123"
+	},
+
+	{
+		"_id": "82a9228b563daeb69cee10de",
+		"name": "Car Example 03",
+		"make": "CHEVROLET",
+		"model": "Onix",
+		"plate": "ABE123"
+	}
+]
